@@ -22,7 +22,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-8nwoqbs/dead_devil_prince)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/8nwoqbs/dead_devil_prince)
 
 <h4> Deploy Coming Soon </h4>
 
